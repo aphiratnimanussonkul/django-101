@@ -23,4 +23,9 @@ $ pip install -r requirements.txt
 $ pip install django
 $ django-admin startproject <project name> .
 ```
+5. Run project
+```
+$ ./manage.py runserver
+```
+
 
