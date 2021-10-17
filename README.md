@@ -27,5 +27,8 @@ $ django-admin startproject <project name> .
 ```
 $ ./manage.py runserver
 ```
-
+6. Create api app
+```
+$ ./manage.py startapp api
+```
 
