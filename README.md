@@ -61,3 +61,8 @@ INSTALLED_APPS = [
     'rest_framework',
 ]
 ```
+9. Connect django with mysql
+```
+$ brew install mysql
+$ pip install mysqlclient
+```
